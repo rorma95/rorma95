@@ -24,7 +24,7 @@
 ### :man_technologist: Sobre mí :
 
 
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Apasionada de la tecnología y disfrutando de una transición laboral al QA Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
 * 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
 
