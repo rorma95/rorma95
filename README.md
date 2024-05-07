@@ -32,7 +32,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/qamo/)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Miguel-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/qamo/)
    
 
 
