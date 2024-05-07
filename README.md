@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/qamo)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/qamo/)
   [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
 [![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
 
@@ -26,13 +26,13 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral al QA Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy trabajando en el departamento de compras de una empresa retail de alimentación pero necesito nuevos retos :muscle:  
+* 🔭 Actualmente estoy estudiando para entrar en el campo de las TI ya que necesito nuevos retos :muscle:  
 
-* 🌱 Estoy estudiando :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+* 🌱 Estoy estudiando para convertirme en QA engineer :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
 
 * ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
 
-* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/qamo/)
    
 
 
