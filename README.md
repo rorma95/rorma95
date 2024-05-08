@@ -24,13 +24,17 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral al QA Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy estudiando para entrar en el campo de las TI ya que necesito nuevos retos :muscle:  
+* 🔭 Actualmente estoy estudiando para entrar en el campo de las TI ya que necesito nuevos retos, estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos.:muscle:  
 
-* 🌱 Estoy estudiando para convertirme en QA engineer :blue_book: y practicando :computer: lenguaje SQL y Python, sin dejar de lado las increíbles herramientas de Microsoft. 
+* 🌱 Actualmente estoy practicando con Python :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y CLI, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:detective:
 
-* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo 
+* ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo, escribir codigo para reducir tiempos de trabajo, ya que me apasiona la logica de programacion.:technologist:
 
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Miguel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qamo/)
+
+* :e-mail: jorge.caceresgarcia@gmail.com
+
+* :iphone: +569 4208 4090
    
 
 
