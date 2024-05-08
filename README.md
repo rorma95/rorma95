@@ -32,9 +32,9 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
 
 * 📫 ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Miguel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/qamo/)
 
-* :e-mail: jorge.caceresgarcia@gmail.com
+* :e-mail: reom.edu@gmail.com
 
-* :iphone: +569 4208 4090
+* :iphone: +56 5522 8268
    
 
 
