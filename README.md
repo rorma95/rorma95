@@ -67,7 +67,5 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rorma95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  ---
-  ## 📊 My stats
-  <img align="center" width="600" alt="Data" src="general.svg">
+
 
