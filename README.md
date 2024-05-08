@@ -9,7 +9,6 @@
 ![](https://komarev.com/ghpvc/?username=rorma95&color=blueviolet&style=flat-square)
 
   
- 
  <div id="badges" align="center">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
    
