@@ -46,6 +46,10 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
   </a>
  <img src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
+
+
+
+  ---
   
 </div>
   
