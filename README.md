@@ -41,7 +41,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
 ---
    
  ### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
+<div id="header" align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
@@ -49,13 +49,13 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-
+<div id="header" align="center">
+  
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
 [![AutoCad](https://img.shields.io/badge/AutoCad-8A2BE2?style=for-the-badge&logo=AutoCad&logoColor=red&color=black)]()
-[![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
-[![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]()
+
 
   ---
   
