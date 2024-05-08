@@ -49,7 +49,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img src="https://img.shields.io/badge/Postman-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
-  </a>
+ 
   
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
   
@@ -66,7 +66,7 @@ Apasionado de la tecnología y disfrutando de una transición laboral al QA Test
 [![Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
 [![After Effects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]()
 
-
+ </a>
 
   ---
   
