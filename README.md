@@ -24,7 +24,7 @@
 
 Apasionado de la tecnología y disfrutando de una transición laboral al QA Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
    
-* 🔭 Actualmente estoy estudiando para entrar en el campo de las TI ya que necesito nuevos retos, estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos.:muscle:  
+* 🔭 Actualmente estoy estudiando para entrar en el campo de las TI ya que necesito nuevos retos, estoy en la parte final de mi curso de QA Engineer en el BootCamp TripleTen, ansioso de poder aplicar mis nuevos conocimientos. :muscle:  
 
 * 🌱 Actualmente estoy practicando con Python :blue_book: y ya he realizado proyectos con :computer: lenguaje SQL y CLI, asi como tambien herramientas de Manual Testing, como Jira, Postman y Android Studio.:detective:
 
